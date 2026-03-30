@@ -1,0 +1,6 @@
+2026-05-04 12:00:01 INFO "Telemetry link established"
+2026-05-05 12:00:05 WARN "Temperature above threshold"
+2026-05-06 12:00:10 ERROR "Communication timeout"
+2026-05-06 12:00:12 ERROR "Communication timeout"
+2026-05-06 12:00:24 ERROR "Communication timeout"
+2026-05-06 12:03:43 ERROR "Communication timeout"

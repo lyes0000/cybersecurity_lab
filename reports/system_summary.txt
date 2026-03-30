@@ -1,0 +1,4 @@
+Total log entries: 11
+Total ERROR entries: 6
+Total WARN entries: 3
+Total INFO entries: 2
